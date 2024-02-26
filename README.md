@@ -5,7 +5,7 @@
 
 ### About me:
 
-I am a recent Computer Science graduate who loves to explore software at the lowest lowel.
+I am a recent Computer Science graduate who loves to explore software at the lowest level.
 
 - :llama: Developer of [LLAMA-16](https://github.com/jaydinandrews/llama-16)
 - :books: Currently learning Rust
